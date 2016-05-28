@@ -1,0 +1,10 @@
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\bin\Debug\JobVerifyCarsModels.exe.config
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\bin\Debug\JobVerifyCarsModels.exe
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\bin\Debug\JobVerifyCarsModels.pdb
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\bin\Debug\EntityFramework.dll
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\bin\Debug\EntityFramework.xml
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\obj\Debug\JobVerifyCarsModels.csprojResolveAssemblyReference.cache
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\obj\Debug\JobVerifyCarsModels.exe
+D:\Desktop\JobVerifyCarsModels\JobVerifyCarsModels\obj\Debug\JobVerifyCarsModels.pdb
